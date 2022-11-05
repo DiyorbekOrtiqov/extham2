@@ -1,0 +1,36 @@
+.brend_icon{
+    width: 80px;
+    height: 50px;
+
+}
+.brend_icons{
+    width: 55px;
+    height: 30px;
+    padding: 5px;
+    padding-top: 10px;
+    
+}
+
+.pags_link{
+    h3{
+        color:  #08546C;
+        &:hover{
+            color: #FFA800;
+        }
+    }
+    a{
+        color: #787878;
+        &:hover{
+            color: #FFA800;
+        }
+    }
+    
+}
+
+
+@media only screen and (max-width: 575px) {
+    .footer_itm{
+       padding-left: 30px;
+    }
+    
+}
